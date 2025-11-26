@@ -23,3 +23,5 @@ Tools - PostgreSQL, Docker, Docker-Compose, Prometheus, Grafana, Nginx, Git
 📁 Self host a file server on FreeBSD utilising ZFS
 
 🚦 Learn about PF firewall's configuration to then reinforce said servers
+
+🎡 Learn K8s
