@@ -14,7 +14,9 @@ Tools - PostgreSQL, Docker, Docker-Compose, Prometheus, Grafana, Nginx, Git
 
 ## 🧠 Goals for the foreseeable future
 
-🔁 Build an HTTP 1 server from scratch using rust (currently working on)
+🖥️ Build a portfolio site (currently working on)
+
+🔁 Build an HTTP 1 server from scratch using rust
 
 🔑 Implement TCP from scratch to then upgrade my HTTP 1 server to HTTP 2
 
