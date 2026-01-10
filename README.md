@@ -12,7 +12,7 @@ Frameworks/Libraries - Nextjs, React, Axum, i18n, Recharts
 Tools - PostgreSQL, Docker, Docker-Compose, Prometheus, Grafana, Nginx, Git
 
 
-## 🧠 Goals for the foreseeable future
+## 🧠 Future goals
 
 🖥️ Build a portfolio site (currently working on)
 
